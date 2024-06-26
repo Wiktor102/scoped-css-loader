@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@vue/component-compiler-utils": "^2.2.0",
+    "@vue/component-compiler-utils": "^3.3.0",
     "qs": "^6.5.2"
   },
   "repository": "https://github.com/gaoxiaoliangz/react-scoped-css",
